@@ -1,0 +1,61 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-grad {
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("/bootstrap/Img/img/hero-bg.jpg") center center no-repeat;
+}
+
+.bg-grad-2 {
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, #f8f9fa 100%);
+}
+
+.bg-btn {
+    background-color: rgba(53, 18, 255, 0.4);
+}
+
+.testi-card{
+    top: 140px;
+    left: 0;
+}
+
+.bg-purple {
+    background-color: rgba(86, 58, 250, 0.9);
+}
+
+.bg-whites{
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.text-pink{
+    color: rgb(55, 86, 128);
+}
+
+.text-orange{
+    color: orange;
+}
+
+.text-purple{
+    color: rgb(86, 58, 250);
+}
+
+.border-wiggle{
+    border-radius: 70% 30% 70% 30% / 30% 63% 37% 70% ;
+}
+
+.card-shadows {
+    box-shadow: 0px 0px 21px -4px rgba(0,0,0,0.67);
+}
+
+img[alt="testi"] {
+    height: 80px;
+}
+
+img[alt="img-icon"]{
+    height: 65px;
+    border-radius: 70% 30% 70% 30% / 30% 63% 37% 70% ;
+}
+
+.badge{
+    width: 130px;
+}
